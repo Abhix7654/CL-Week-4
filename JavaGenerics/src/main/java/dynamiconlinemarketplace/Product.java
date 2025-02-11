@@ -28,5 +28,7 @@ public class Product<T extends Category> {
 @Override
     public String toString() {
         return name + "  Rs. " + price + " - Category " + category.getCategoryName();
+
     }
+
 }
