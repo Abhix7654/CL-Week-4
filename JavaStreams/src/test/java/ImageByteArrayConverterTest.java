@@ -36,5 +36,5 @@ class ImageByteArrayConverterTest {
         assertNotNull(imageBytes);
 
     }
-    
+
 }
