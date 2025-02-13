@@ -3,7 +3,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 import java.io.*;
 
-class FileHandlerTest {
+class FileHandlingTest {
 
     private static final String TEST_SOURCE_FILE = "examplefile.txt";
     private static final String TEST_DEST_FILE = "Output.txt";
