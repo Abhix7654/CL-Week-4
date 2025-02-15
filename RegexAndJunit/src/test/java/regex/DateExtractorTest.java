@@ -23,5 +23,5 @@ public class DateExtractorTest {
         assertEquals(expected, DateExtractor.extractDates(text));
     }
 
-   
+
 }
