@@ -19,5 +19,5 @@ class PasswordValidatorTest {
         assertFalse(PasswordValidator.isValidPassword("PASSWORD"));
 
     }
-    
+
 }
