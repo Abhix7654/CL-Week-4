@@ -20,6 +20,6 @@ public class HexColorValidatorTest {
         assertFalse(HexColorValidator.isValidHexColor("FFA500"));
         assertFalse(HexColorValidator.isValidHexColor("#12345G"));
         assertFalse(HexColorValidator.isValidHexColor(null));
-        assertFalse(HexColorValidator.isValidHexColor("")); 
+        assertFalse(HexColorValidator.isValidHexColor(""));
     }
 }
